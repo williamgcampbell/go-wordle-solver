@@ -1818,7 +1818,6 @@ lager
 lairy
 lance
 large
-latin
 laude
 leafs
 legis
@@ -2240,7 +2239,6 @@ tayir
 taish
 tansy
 targe
-tauli
 tepal
 terga
 thais
@@ -2344,7 +2342,6 @@ crust
 cunas
 curia
 curst
-datil
 decal
 deism
 deric
@@ -2460,7 +2457,6 @@ naish
 nefas
 nepal
 nidor
-nilot
 nodal
 noted
 octal
@@ -2844,7 +2840,6 @@ raupo
 reban
 recut
 relig
-rendu
 repay
 rheda
 rhila
@@ -3909,7 +3904,6 @@ patsy
 peaks
 penda
 pensy
-perun
 phare
 phies
 picra
@@ -4632,7 +4626,6 @@ nacry
 nakir
 nasch
 navis
-nehru
 newts
 nigel
 nihal
@@ -6134,7 +6127,6 @@ parve
 patly
 paver
 pechs
-percy
 phons
 phren
 picot
@@ -6734,7 +6726,6 @@ input
 inrub
 yowie
 yowls
-yunca
 ixtle
 izard
 janet
